@@ -108,7 +108,7 @@ Add animations and smooth transitions
 
 💻 How to run locally
 Clone this repository:
-git clone https://github.com/kinast87/lista-de-Tarefas.git
+git clone https://github.com/kinast87/lista-de-tarefas.git
 Open the index.html file in your browser.
 
 🧑‍💻 Author
